@@ -1,5 +1,5 @@
-const key = '';
-const city_name = '';
+const key = '549b9dcbf802d5dc8dbc830d01ed17bf';
+const city_name = 'Shanghai';
 
 getWeatherInfo();
 
